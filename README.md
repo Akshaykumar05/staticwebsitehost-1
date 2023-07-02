@@ -6,3 +6,4 @@
 
 ### Need
   * AWS account
+  * Static website
