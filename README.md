@@ -6,4 +6,6 @@
 
 ### Need
   * AWS account
+  * GitHub account
   * Static website
+    
