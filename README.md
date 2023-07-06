@@ -9,4 +9,5 @@
   * GitHub account
   * A domain (from Route53, GoDaddy, Hostinger etc)
   * Static website
-    
+
+### Architecture
