@@ -4,7 +4,7 @@
 * Azure storage, Azure CDN, DNS
 * Cloud storage/Load Balancer, Cloud CDN
 
-### Need to have
+### Pre-requisites:
   * AWS account
   * GitHub account
   * A domain (from Route53, GoDaddy, Hostinger etc)
