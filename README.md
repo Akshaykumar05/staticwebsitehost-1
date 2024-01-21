@@ -3,6 +3,7 @@
 * S3, CloudFront, Route53
 * Azure storage, Azure CDN, DNS
 * Cloud storage/Load Balancer, Cloud CDN
+* CNCD pipline.
 
 ### Pre-requisites:
   * AWS account
